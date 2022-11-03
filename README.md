@@ -1,6 +1,6 @@
-# Toptal Assignment - Krishan
+# Fantasy League
 
-> Simple application where football/soccer fans will create fantasy teams and will be able to sell or buy players.
+> Application where football/soccer fans will create fantasy teams and will be able to sell or buy players.
 
 ## Prerequisite
 
