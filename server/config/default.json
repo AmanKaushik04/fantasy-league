@@ -19,7 +19,7 @@
     }
   },
   "database": {
-    "url": "mongodb://mongo:27017/toptal-assignment-krishan",
+    "url": "mongodb://mongo:27017/league",
     "user": "",
     "password": ""
   },
@@ -33,12 +33,12 @@
       {
         "_id": "510000000000000000000000",
         "name": {
-          "firstName": "Krishan",
-          "lastName": "Saini"
+          "firstName": "",
+          "lastName": ""
         },
         "role": "ADMIN",
-        "email": "krishansaini9211@gmail.com",
-        "password": "krishan",
+        "email": "",
+        "password": "",
         "emailVerified": true
       }
     ]
