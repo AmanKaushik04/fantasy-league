@@ -1,5 +1,5 @@
 {
-  "appName": "Toptal Test",
+  "appName": "fantasy-league",
   "server": {
     "port": 2345,
     "host": "localhost",
@@ -16,7 +16,7 @@
     }
   },
   "database": {
-    "url": "mongodb://mongo:27017/toptal-assignment-krishan-test",
+    "url": "mongodb://mongo:27017/league",
     "user": "",
     "password": ""
   },
